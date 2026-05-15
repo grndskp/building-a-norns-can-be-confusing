@@ -31,6 +31,8 @@ shieldxl power supply
 2648-SC0445-ND 	
 2648-SC0445-ND
 SC0445
+
+For the hardware https://www.mcmaster.com/ was incredibly helpful, it is easy to just copy and paste the hardware mentioned in the norns shield github and the website takes care of the rest
 Raspberry Pi
 AC/DC WALL MNT ADAPTER 5.1V 15W 
 

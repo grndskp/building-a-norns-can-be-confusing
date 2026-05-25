@@ -1,3 +1,5 @@
+update-finally building the shield and came across this extremely useful resource containing the parts guide - https://www.soundstudymodular.com/assembly-instructions/norns-shield-assembly-instructions/
+
 # building-a-norns-can-be-confusing
 i'm just going to provide a resource for sourcing that parts for building a shield or shieldxl because it took me a long time to figure it out and i didn't even figure everything out
 Here's my digikey cart - https://www.digikey.com/short/0m8p37vj
